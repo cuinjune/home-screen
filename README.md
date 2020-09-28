@@ -61,7 +61,7 @@ In the future, I would like to add the magnification effect (similar to the one 
 
 ## Setup
 
-1. You need to have [Python[(https://realpython.com/installing-python/) installed on your computer
+1. You need to have [Python](https://realpython.com/installing-python/) installed on your computer
 2. Run the following commands in the Terminal
 ```
 git clone https://github.com/cuinjune/home-screen.git
