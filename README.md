@@ -18,7 +18,7 @@ Because there are so many apps installed on their phone, their home screen is di
 
 While having pages is useful, it has two problems:
 1. It requires more interactions (swipe) from users to find and open an app.
-2. Users don't feel the need to clean unused apps which makes the first problem worse.
+2. Users don't feel the need to clean up unused apps which makes the first problem worse.
 
 ### The Solution
 
