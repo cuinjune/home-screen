@@ -28,7 +28,7 @@ This gives them good motivation to clean unused apps that will improve their exp
 And since the user can see all apps in one page, it requires single (touch) interaction to open an app.
 
 
-### How to use
+## How to use
 
 Visit the [app link](https://cuinjune-home-screen.glitch.me/) in your phone's browser, or use the following QR code to visit the link:
 
@@ -55,7 +55,7 @@ And this is the result of "70" app icons:
 
 Icons are kind of too small and it will motivate the user to clean unused apps.
 
-### Future Works
+## Future Works
 
 In the future, I would like to add the magnification effect (similar to the one used for the Dock icons on macOS) to enlarge icons on touch dragging so the user can more accurately interact with small icons. 
 
