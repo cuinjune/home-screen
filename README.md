@@ -30,8 +30,6 @@ And since the user can see all apps in one page, it requires single (touch) inte
 
 ### How to use
 
-<img src="screenshot1.jpg" width="250"/>
-
 Visit the [app link](https://cuinjune-home-screen.glitch.me/) in your phone's browser, or use the following QR code to visit the link:
 
 <img src="qrcode.png" width="250"/>
