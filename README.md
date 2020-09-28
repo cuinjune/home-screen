@@ -53,7 +53,7 @@ And this is the result of "70" app icons:
 
 <img src="screenshot4.jpg" width="250"/>
 
-Icons are kind of too small and it will motivate the user to clean unused apps.
+While still useable, the user will notice the icons are now too small and will feel an urge to clean up unused apps.
 
 ## Future Works
 
