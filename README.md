@@ -39,7 +39,7 @@ If you open the app, it will look something like this:
 <img src="screenshot1.jpg" width="250"/>
 
 The icons are being added from bottom to top order so the most frequent used apps can always stay at the bottom.  
-And the app names are randomly generated whenever apps the icons are generated.   
+And the app names are randomly generated whenever the icons are generated.   
 
 You can use the text field at the top to type and submit a number of app icons to generate.  
 
