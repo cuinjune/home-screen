@@ -185,10 +185,10 @@ window.onload = function () {
     const time = document.getElementById("time");
     function updateTime() {
         const date = new Date();
-        const hours = date.getHours();
+        const hours = date.getHours() % 12 == 0 ? 12 : date.getHours() % 12;
         const minutes = ("0" + date.getMinutes()).slice(-2);
-        const period = hours < 12 ? "AM" : "PM";
-        time.textContent = `${hours % 12}:${minutes} ${period}`;
+        const period = date.getHours() < 12 ? "AM" : "PM";
+        time.textContent = `${hours}:${minutes} ${period}`;
     }
     updateTime();
     setInterval(updateTime, 1000);
