@@ -22,7 +22,7 @@ While having pages is useful, it has two problems:
 
 ### The Solution
 
-My solution to this problem is to fit all icons in one page regardless of how many apps are installed.
+My solution to these problems is to fit all icons in one page regardless of how many apps are installed.
 As the number of apps grow, the size of icons will become smaller and smaller. And as they get smaller, it will make it more difficult for the user to open an app.
 This gives them good motivation to clean unused apps that will improve their experience and make more available storage on their phone. 
 And since the user can see all apps in one page, it requires single (touch) interaction to open an app.
