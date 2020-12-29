@@ -5,7 +5,7 @@
 ## Description
 
 This repo is the week3 assignment of the "Hand Held: Creative Tools for Phones" course at ITP.  
-The assignment is to create a mockup of an imaginary home screen for mobile phones using HTML and CSS.  
+The assignment was to create a mockup of an imaginary home screen for mobile phones using HTML and CSS.  
 My goal was to create a home screen that fits all icons in one page regardless of how many apps are installed.
 
 Here's the [Live Demo on Glitch](https://cuinjune-home-screen.glitch.me/).
